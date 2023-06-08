@@ -18,8 +18,8 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 ```
 /*
 Program to implement the K Means Clustering for Customer Segmentation.
-Developed by: KARTHICK APPIREDDY
-Register Number: 212220040070  
+Developed by: A.Mohamed musharuf
+Register Number: 212220040089 
 */
 ```
 
